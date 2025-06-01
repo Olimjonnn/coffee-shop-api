@@ -51,7 +51,7 @@
 
 ### 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/your-username/coffee-backend.git
+git clone https://github.com/Olimjonnn/coffee-shop-api.git
 cd coffee-backend
 ```
 
